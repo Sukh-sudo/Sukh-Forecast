@@ -1,0 +1,449 @@
+Date,location,weekday,holiday_flag,forecast_volume,selected_model
+2026-04-05,1,Sunday,0,0,Holiday SARIMA
+2026-04-06,1,Monday,0,2457,Holiday SARIMA
+2026-04-07,1,Tuesday,0,2644,Holiday SARIMA
+2026-04-08,1,Wednesday,0,2290,Holiday SARIMA
+2026-04-09,1,Thursday,0,2113,Holiday SARIMA
+2026-04-10,1,Friday,0,1993,Holiday SARIMA
+2026-04-11,1,Saturday,0,0,Holiday SARIMA
+2026-04-12,1,Sunday,0,0,Holiday SARIMA
+2026-04-13,1,Monday,0,2476,Holiday SARIMA
+2026-04-14,1,Tuesday,0,2661,Holiday SARIMA
+2026-04-15,1,Wednesday,0,2306,Holiday SARIMA
+2026-04-16,1,Thursday,0,2129,Holiday SARIMA
+2026-04-17,1,Friday,0,2008,Holiday SARIMA
+2026-04-18,1,Saturday,0,0,Holiday SARIMA
+2026-04-19,1,Sunday,0,0,Holiday SARIMA
+2026-04-20,1,Monday,0,2488,Holiday SARIMA
+2026-04-21,1,Tuesday,0,2673,Holiday SARIMA
+2026-04-22,1,Wednesday,0,2317,Holiday SARIMA
+2026-04-23,1,Thursday,0,2139,Holiday SARIMA
+2026-04-24,1,Friday,0,2018,Holiday SARIMA
+2026-04-25,1,Saturday,0,0,Holiday SARIMA
+2026-04-26,1,Sunday,0,0,Holiday SARIMA
+2026-04-27,1,Monday,0,2497,Holiday SARIMA
+2026-04-28,1,Tuesday,0,2681,Holiday SARIMA
+2026-04-29,1,Wednesday,0,2325,Holiday SARIMA
+2026-04-30,1,Thursday,0,2147,Holiday SARIMA
+2026-05-01,1,Friday,0,2025,Holiday SARIMA
+2026-05-02,1,Saturday,0,0,Holiday SARIMA
+2026-05-03,1,Sunday,0,0,Holiday SARIMA
+2026-05-04,1,Monday,0,2502,Holiday SARIMA
+2026-05-05,1,Tuesday,0,2686,Holiday SARIMA
+2026-05-06,1,Wednesday,0,2330,Holiday SARIMA
+2026-05-07,1,Thursday,0,2152,Holiday SARIMA
+2026-05-08,1,Friday,0,2030,Holiday SARIMA
+2026-05-09,1,Saturday,0,0,Holiday SARIMA
+2026-05-10,1,Sunday,0,0,Holiday SARIMA
+2026-05-11,1,Monday,0,2506,Holiday SARIMA
+2026-05-12,1,Tuesday,0,2690,Holiday SARIMA
+2026-05-13,1,Wednesday,0,2334,Holiday SARIMA
+2026-05-14,1,Thursday,0,2155,Holiday SARIMA
+2026-05-15,1,Friday,0,2033,Holiday SARIMA
+2026-05-16,1,Saturday,0,0,Holiday SARIMA
+2026-05-17,1,Sunday,0,0,Holiday SARIMA
+2026-05-18,1,Monday,1,948,Holiday SARIMA
+2026-05-19,1,Tuesday,0,2693,Holiday SARIMA
+2026-05-20,1,Wednesday,0,2336,Holiday SARIMA
+2026-05-21,1,Thursday,0,2158,Holiday SARIMA
+2026-05-22,1,Friday,0,2035,Holiday SARIMA
+2026-05-23,1,Saturday,0,0,Holiday SARIMA
+2026-05-24,1,Sunday,0,0,Holiday SARIMA
+2026-05-25,1,Monday,0,2511,Holiday SARIMA
+2026-05-26,1,Tuesday,0,2695,Holiday SARIMA
+2026-05-27,1,Wednesday,0,2338,Holiday SARIMA
+2026-05-28,1,Thursday,0,2159,Holiday SARIMA
+2026-05-29,1,Friday,0,2037,Holiday SARIMA
+2026-05-30,1,Saturday,0,0,Holiday SARIMA
+2026-04-05,2,Sunday,0,16,XGBoost
+2026-04-06,2,Monday,0,481,XGBoost
+2026-04-07,2,Tuesday,0,483,XGBoost
+2026-04-08,2,Wednesday,0,437,XGBoost
+2026-04-09,2,Thursday,0,429,XGBoost
+2026-04-10,2,Friday,0,374,XGBoost
+2026-04-11,2,Saturday,0,13,XGBoost
+2026-04-12,2,Sunday,0,16,XGBoost
+2026-04-13,2,Monday,0,482,XGBoost
+2026-04-14,2,Tuesday,0,516,XGBoost
+2026-04-15,2,Wednesday,0,447,XGBoost
+2026-04-16,2,Thursday,0,424,XGBoost
+2026-04-17,2,Friday,0,270,XGBoost
+2026-04-18,2,Saturday,0,14,XGBoost
+2026-04-19,2,Sunday,0,20,XGBoost
+2026-04-20,2,Monday,0,477,XGBoost
+2026-04-21,2,Tuesday,0,506,XGBoost
+2026-04-22,2,Wednesday,0,409,XGBoost
+2026-04-23,2,Thursday,0,390,XGBoost
+2026-04-24,2,Friday,0,311,XGBoost
+2026-04-25,2,Saturday,0,13,XGBoost
+2026-04-26,2,Sunday,0,15,XGBoost
+2026-04-27,2,Monday,0,485,XGBoost
+2026-04-28,2,Tuesday,0,507,XGBoost
+2026-04-29,2,Wednesday,0,435,XGBoost
+2026-04-30,2,Thursday,0,426,XGBoost
+2026-05-01,2,Friday,0,317,XGBoost
+2026-05-02,2,Saturday,0,13,XGBoost
+2026-05-03,2,Sunday,0,16,XGBoost
+2026-05-04,2,Monday,0,487,XGBoost
+2026-05-05,2,Tuesday,0,505,XGBoost
+2026-05-06,2,Wednesday,0,456,XGBoost
+2026-05-07,2,Thursday,0,416,XGBoost
+2026-05-08,2,Friday,0,376,XGBoost
+2026-05-09,2,Saturday,0,15,XGBoost
+2026-05-10,2,Sunday,0,16,XGBoost
+2026-05-11,2,Monday,0,489,XGBoost
+2026-05-12,2,Tuesday,0,505,XGBoost
+2026-05-13,2,Wednesday,0,444,XGBoost
+2026-05-14,2,Thursday,0,411,XGBoost
+2026-05-15,2,Friday,0,380,XGBoost
+2026-05-16,2,Saturday,0,16,XGBoost
+2026-05-17,2,Sunday,0,11,XGBoost
+2026-05-18,2,Monday,1,302,XGBoost
+2026-05-19,2,Tuesday,0,488,XGBoost
+2026-05-20,2,Wednesday,0,429,XGBoost
+2026-05-21,2,Thursday,0,407,XGBoost
+2026-05-22,2,Friday,0,372,XGBoost
+2026-05-23,2,Saturday,0,16,XGBoost
+2026-05-24,2,Sunday,0,20,XGBoost
+2026-05-25,2,Monday,0,466,XGBoost
+2026-05-26,2,Tuesday,0,512,XGBoost
+2026-05-27,2,Wednesday,0,436,XGBoost
+2026-05-28,2,Thursday,0,410,XGBoost
+2026-05-29,2,Friday,0,364,XGBoost
+2026-05-30,2,Saturday,0,16,XGBoost
+2026-04-05,3,Sunday,0,0,Holiday SARIMA
+2026-04-06,3,Monday,0,2538,Holiday SARIMA
+2026-04-07,3,Tuesday,0,2994,Holiday SARIMA
+2026-04-08,3,Wednesday,0,2973,Holiday SARIMA
+2026-04-09,3,Thursday,0,2774,Holiday SARIMA
+2026-04-10,3,Friday,0,2224,Holiday SARIMA
+2026-04-11,3,Saturday,0,0,Holiday SARIMA
+2026-04-12,3,Sunday,0,0,Holiday SARIMA
+2026-04-13,3,Monday,0,2584,Holiday SARIMA
+2026-04-14,3,Tuesday,0,3037,Holiday SARIMA
+2026-04-15,3,Wednesday,0,3013,Holiday SARIMA
+2026-04-16,3,Thursday,0,2811,Holiday SARIMA
+2026-04-17,3,Friday,0,2258,Holiday SARIMA
+2026-04-18,3,Saturday,0,0,Holiday SARIMA
+2026-04-19,3,Sunday,0,0,Holiday SARIMA
+2026-04-20,3,Monday,0,2611,Holiday SARIMA
+2026-04-21,3,Tuesday,0,3061,Holiday SARIMA
+2026-04-22,3,Wednesday,0,3035,Holiday SARIMA
+2026-04-23,3,Thursday,0,2831,Holiday SARIMA
+2026-04-24,3,Friday,0,2277,Holiday SARIMA
+2026-04-25,3,Saturday,0,0,Holiday SARIMA
+2026-04-26,3,Sunday,0,0,Holiday SARIMA
+2026-04-27,3,Monday,0,2625,Holiday SARIMA
+2026-04-28,3,Tuesday,0,3075,Holiday SARIMA
+2026-04-29,3,Wednesday,0,3048,Holiday SARIMA
+2026-04-30,3,Thursday,0,2843,Holiday SARIMA
+2026-05-01,3,Friday,0,2287,Holiday SARIMA
+2026-05-02,3,Saturday,0,0,Holiday SARIMA
+2026-05-03,3,Sunday,0,0,Holiday SARIMA
+2026-05-04,3,Monday,0,2634,Holiday SARIMA
+2026-05-05,3,Tuesday,0,3082,Holiday SARIMA
+2026-05-06,3,Wednesday,0,3055,Holiday SARIMA
+2026-05-07,3,Thursday,0,2849,Holiday SARIMA
+2026-05-08,3,Friday,0,2293,Holiday SARIMA
+2026-05-09,3,Saturday,0,0,Holiday SARIMA
+2026-05-10,3,Sunday,0,0,Holiday SARIMA
+2026-05-11,3,Monday,0,2638,Holiday SARIMA
+2026-05-12,3,Tuesday,0,3087,Holiday SARIMA
+2026-05-13,3,Wednesday,0,3059,Holiday SARIMA
+2026-05-14,3,Thursday,0,2853,Holiday SARIMA
+2026-05-15,3,Friday,0,2297,Holiday SARIMA
+2026-05-16,3,Saturday,0,0,Holiday SARIMA
+2026-05-17,3,Sunday,0,0,Holiday SARIMA
+2026-05-18,3,Monday,1,1340,Holiday SARIMA
+2026-05-19,3,Tuesday,0,3089,Holiday SARIMA
+2026-05-20,3,Wednesday,0,3061,Holiday SARIMA
+2026-05-21,3,Thursday,0,2855,Holiday SARIMA
+2026-05-22,3,Friday,0,2298,Holiday SARIMA
+2026-05-23,3,Saturday,0,0,Holiday SARIMA
+2026-05-24,3,Sunday,0,0,Holiday SARIMA
+2026-05-25,3,Monday,0,2642,Holiday SARIMA
+2026-05-26,3,Tuesday,0,3090,Holiday SARIMA
+2026-05-27,3,Wednesday,0,3062,Holiday SARIMA
+2026-05-28,3,Thursday,0,2856,Holiday SARIMA
+2026-05-29,3,Friday,0,2300,Holiday SARIMA
+2026-05-30,3,Saturday,0,0,Holiday SARIMA
+2026-04-05,4,Sunday,0,7,Holiday SARIMA
+2026-04-06,4,Monday,0,472,Holiday SARIMA
+2026-04-07,4,Tuesday,0,511,Holiday SARIMA
+2026-04-08,4,Wednesday,0,550,Holiday SARIMA
+2026-04-09,4,Thursday,0,436,Holiday SARIMA
+2026-04-10,4,Friday,0,458,Holiday SARIMA
+2026-04-11,4,Saturday,0,120,Holiday SARIMA
+2026-04-12,4,Sunday,0,13,Holiday SARIMA
+2026-04-13,4,Monday,0,477,Holiday SARIMA
+2026-04-14,4,Tuesday,0,516,Holiday SARIMA
+2026-04-15,4,Wednesday,0,556,Holiday SARIMA
+2026-04-16,4,Thursday,0,441,Holiday SARIMA
+2026-04-17,4,Friday,0,463,Holiday SARIMA
+2026-04-18,4,Saturday,0,124,Holiday SARIMA
+2026-04-19,4,Sunday,0,17,Holiday SARIMA
+2026-04-20,4,Monday,0,481,Holiday SARIMA
+2026-04-21,4,Tuesday,0,520,Holiday SARIMA
+2026-04-22,4,Wednesday,0,559,Holiday SARIMA
+2026-04-23,4,Thursday,0,444,Holiday SARIMA
+2026-04-24,4,Friday,0,466,Holiday SARIMA
+2026-04-25,4,Saturday,0,128,Holiday SARIMA
+2026-04-26,4,Sunday,0,20,Holiday SARIMA
+2026-04-27,4,Monday,0,484,Holiday SARIMA
+2026-04-28,4,Tuesday,0,523,Holiday SARIMA
+2026-04-29,4,Wednesday,0,562,Holiday SARIMA
+2026-04-30,4,Thursday,0,447,Holiday SARIMA
+2026-05-01,4,Friday,0,469,Holiday SARIMA
+2026-05-02,4,Saturday,0,130,Holiday SARIMA
+2026-05-03,4,Sunday,0,23,Holiday SARIMA
+2026-05-04,4,Monday,0,487,Holiday SARIMA
+2026-05-05,4,Tuesday,0,525,Holiday SARIMA
+2026-05-06,4,Wednesday,0,564,Holiday SARIMA
+2026-05-07,4,Thursday,0,449,Holiday SARIMA
+2026-05-08,4,Friday,0,471,Holiday SARIMA
+2026-05-09,4,Saturday,0,132,Holiday SARIMA
+2026-05-10,4,Sunday,0,24,Holiday SARIMA
+2026-05-11,4,Monday,0,488,Holiday SARIMA
+2026-05-12,4,Tuesday,0,527,Holiday SARIMA
+2026-05-13,4,Wednesday,0,565,Holiday SARIMA
+2026-05-14,4,Thursday,0,450,Holiday SARIMA
+2026-05-15,4,Friday,0,472,Holiday SARIMA
+2026-05-16,4,Saturday,0,133,Holiday SARIMA
+2026-05-17,4,Sunday,0,25,Holiday SARIMA
+2026-05-18,4,Monday,1,247,Holiday SARIMA
+2026-05-19,4,Tuesday,0,528,Holiday SARIMA
+2026-05-20,4,Wednesday,0,566,Holiday SARIMA
+2026-05-21,4,Thursday,0,451,Holiday SARIMA
+2026-05-22,4,Friday,0,473,Holiday SARIMA
+2026-05-23,4,Saturday,0,134,Holiday SARIMA
+2026-05-24,4,Sunday,0,26,Holiday SARIMA
+2026-05-25,4,Monday,0,490,Holiday SARIMA
+2026-05-26,4,Tuesday,0,528,Holiday SARIMA
+2026-05-27,4,Wednesday,0,567,Holiday SARIMA
+2026-05-28,4,Thursday,0,452,Holiday SARIMA
+2026-05-29,4,Friday,0,474,Holiday SARIMA
+2026-05-30,4,Saturday,0,135,Holiday SARIMA
+2026-04-05,5,Sunday,0,0,Holiday SARIMA
+2026-04-06,5,Monday,0,51,Holiday SARIMA
+2026-04-07,5,Tuesday,0,46,Holiday SARIMA
+2026-04-08,5,Wednesday,0,38,Holiday SARIMA
+2026-04-09,5,Thursday,0,38,Holiday SARIMA
+2026-04-10,5,Friday,0,41,Holiday SARIMA
+2026-04-11,5,Saturday,0,27,Holiday SARIMA
+2026-04-12,5,Sunday,0,0,Holiday SARIMA
+2026-04-13,5,Monday,0,54,Holiday SARIMA
+2026-04-14,5,Tuesday,0,49,Holiday SARIMA
+2026-04-15,5,Wednesday,0,41,Holiday SARIMA
+2026-04-16,5,Thursday,0,41,Holiday SARIMA
+2026-04-17,5,Friday,0,43,Holiday SARIMA
+2026-04-18,5,Saturday,0,29,Holiday SARIMA
+2026-04-19,5,Sunday,0,0,Holiday SARIMA
+2026-04-20,5,Monday,0,56,Holiday SARIMA
+2026-04-21,5,Tuesday,0,51,Holiday SARIMA
+2026-04-22,5,Wednesday,0,42,Holiday SARIMA
+2026-04-23,5,Thursday,0,43,Holiday SARIMA
+2026-04-24,5,Friday,0,45,Holiday SARIMA
+2026-04-25,5,Saturday,0,31,Holiday SARIMA
+2026-04-26,5,Sunday,0,0,Holiday SARIMA
+2026-04-27,5,Monday,0,57,Holiday SARIMA
+2026-04-28,5,Tuesday,0,52,Holiday SARIMA
+2026-04-29,5,Wednesday,0,44,Holiday SARIMA
+2026-04-30,5,Thursday,0,44,Holiday SARIMA
+2026-05-01,5,Friday,0,46,Holiday SARIMA
+2026-05-02,5,Saturday,0,32,Holiday SARIMA
+2026-05-03,5,Sunday,0,1,Holiday SARIMA
+2026-05-04,5,Monday,0,58,Holiday SARIMA
+2026-05-05,5,Tuesday,0,53,Holiday SARIMA
+2026-05-06,5,Wednesday,0,45,Holiday SARIMA
+2026-05-07,5,Thursday,0,45,Holiday SARIMA
+2026-05-08,5,Friday,0,47,Holiday SARIMA
+2026-05-09,5,Saturday,0,33,Holiday SARIMA
+2026-05-10,5,Sunday,0,2,Holiday SARIMA
+2026-05-11,5,Monday,0,59,Holiday SARIMA
+2026-05-12,5,Tuesday,0,54,Holiday SARIMA
+2026-05-13,5,Wednesday,0,45,Holiday SARIMA
+2026-05-14,5,Thursday,0,45,Holiday SARIMA
+2026-05-15,5,Friday,0,48,Holiday SARIMA
+2026-05-16,5,Saturday,0,33,Holiday SARIMA
+2026-05-17,5,Sunday,0,3,Holiday SARIMA
+2026-05-18,5,Monday,1,43,Holiday SARIMA
+2026-05-19,5,Tuesday,0,54,Holiday SARIMA
+2026-05-20,5,Wednesday,0,46,Holiday SARIMA
+2026-05-21,5,Thursday,0,46,Holiday SARIMA
+2026-05-22,5,Friday,0,48,Holiday SARIMA
+2026-05-23,5,Saturday,0,34,Holiday SARIMA
+2026-05-24,5,Sunday,0,3,Holiday SARIMA
+2026-05-25,5,Monday,0,60,Holiday SARIMA
+2026-05-26,5,Tuesday,0,55,Holiday SARIMA
+2026-05-27,5,Wednesday,0,46,Holiday SARIMA
+2026-05-28,5,Thursday,0,46,Holiday SARIMA
+2026-05-29,5,Friday,0,48,Holiday SARIMA
+2026-05-30,5,Saturday,0,34,Holiday SARIMA
+2026-04-05,6,Sunday,0,49,XGBoost
+2026-04-06,6,Monday,0,5123,XGBoost
+2026-04-07,6,Tuesday,0,6031,XGBoost
+2026-04-08,6,Wednesday,0,5475,XGBoost
+2026-04-09,6,Thursday,0,5080,XGBoost
+2026-04-10,6,Friday,0,4589,XGBoost
+2026-04-11,6,Saturday,0,101,XGBoost
+2026-04-12,6,Sunday,0,42,XGBoost
+2026-04-13,6,Monday,0,5030,XGBoost
+2026-04-14,6,Tuesday,0,5502,XGBoost
+2026-04-15,6,Wednesday,0,5157,XGBoost
+2026-04-16,6,Thursday,0,5072,XGBoost
+2026-04-17,6,Friday,0,4302,XGBoost
+2026-04-18,6,Saturday,0,103,XGBoost
+2026-04-19,6,Sunday,0,39,XGBoost
+2026-04-20,6,Monday,0,5218,XGBoost
+2026-04-21,6,Tuesday,0,5845,XGBoost
+2026-04-22,6,Wednesday,0,5493,XGBoost
+2026-04-23,6,Thursday,0,5345,XGBoost
+2026-04-24,6,Friday,0,4832,XGBoost
+2026-04-25,6,Saturday,0,157,XGBoost
+2026-04-26,6,Sunday,0,52,XGBoost
+2026-04-27,6,Monday,0,5493,XGBoost
+2026-04-28,6,Tuesday,0,6013,XGBoost
+2026-04-29,6,Wednesday,0,5815,XGBoost
+2026-04-30,6,Thursday,0,5373,XGBoost
+2026-05-01,6,Friday,0,5078,XGBoost
+2026-05-02,6,Saturday,0,96,XGBoost
+2026-05-03,6,Sunday,0,44,XGBoost
+2026-05-04,6,Monday,0,5496,XGBoost
+2026-05-05,6,Tuesday,0,5832,XGBoost
+2026-05-06,6,Wednesday,0,5601,XGBoost
+2026-05-07,6,Thursday,0,5480,XGBoost
+2026-05-08,6,Friday,0,4959,XGBoost
+2026-05-09,6,Saturday,0,104,XGBoost
+2026-05-10,6,Sunday,0,46,XGBoost
+2026-05-11,6,Monday,0,5670,XGBoost
+2026-05-12,6,Tuesday,0,5792,XGBoost
+2026-05-13,6,Wednesday,0,5682,XGBoost
+2026-05-14,6,Thursday,0,5666,XGBoost
+2026-05-15,6,Friday,0,5316,XGBoost
+2026-05-16,6,Saturday,0,167,XGBoost
+2026-05-17,6,Sunday,0,96,XGBoost
+2026-05-18,6,Monday,1,5620,XGBoost
+2026-05-19,6,Tuesday,0,5880,XGBoost
+2026-05-20,6,Wednesday,0,6020,XGBoost
+2026-05-21,6,Thursday,0,6190,XGBoost
+2026-05-22,6,Friday,0,6074,XGBoost
+2026-05-23,6,Saturday,0,310,XGBoost
+2026-05-24,6,Sunday,0,112,XGBoost
+2026-05-25,6,Monday,0,6227,XGBoost
+2026-05-26,6,Tuesday,0,6227,XGBoost
+2026-05-27,6,Wednesday,0,6256,XGBoost
+2026-05-28,6,Thursday,0,6020,XGBoost
+2026-05-29,6,Friday,0,5717,XGBoost
+2026-05-30,6,Saturday,0,315,XGBoost
+2026-04-05,7,Sunday,0,280,XGBoost
+2026-04-06,7,Monday,0,4861,XGBoost
+2026-04-07,7,Tuesday,0,5568,XGBoost
+2026-04-08,7,Wednesday,0,4985,XGBoost
+2026-04-09,7,Thursday,0,4636,XGBoost
+2026-04-10,7,Friday,0,4550,XGBoost
+2026-04-11,7,Saturday,0,219,XGBoost
+2026-04-12,7,Sunday,0,284,XGBoost
+2026-04-13,7,Monday,0,4931,XGBoost
+2026-04-14,7,Tuesday,0,5331,XGBoost
+2026-04-15,7,Wednesday,0,4850,XGBoost
+2026-04-16,7,Thursday,0,4715,XGBoost
+2026-04-17,7,Friday,0,3964,XGBoost
+2026-04-18,7,Saturday,0,237,XGBoost
+2026-04-19,7,Sunday,0,224,XGBoost
+2026-04-20,7,Monday,0,5047,XGBoost
+2026-04-21,7,Tuesday,0,5543,XGBoost
+2026-04-22,7,Wednesday,0,5361,XGBoost
+2026-04-23,7,Thursday,0,4910,XGBoost
+2026-04-24,7,Friday,0,4395,XGBoost
+2026-04-25,7,Saturday,0,434,XGBoost
+2026-04-26,7,Sunday,0,240,XGBoost
+2026-04-27,7,Monday,0,5172,XGBoost
+2026-04-28,7,Tuesday,0,5515,XGBoost
+2026-04-29,7,Wednesday,0,5022,XGBoost
+2026-04-30,7,Thursday,0,4768,XGBoost
+2026-05-01,7,Friday,0,4253,XGBoost
+2026-05-02,7,Saturday,0,400,XGBoost
+2026-05-03,7,Sunday,0,243,XGBoost
+2026-05-04,7,Monday,0,5071,XGBoost
+2026-05-05,7,Tuesday,0,5617,XGBoost
+2026-05-06,7,Wednesday,0,5210,XGBoost
+2026-05-07,7,Thursday,0,4865,XGBoost
+2026-05-08,7,Friday,0,4449,XGBoost
+2026-05-09,7,Saturday,0,356,XGBoost
+2026-05-10,7,Sunday,0,240,XGBoost
+2026-05-11,7,Monday,0,5152,XGBoost
+2026-05-12,7,Tuesday,0,5623,XGBoost
+2026-05-13,7,Wednesday,0,5223,XGBoost
+2026-05-14,7,Thursday,0,4936,XGBoost
+2026-05-15,7,Friday,0,4590,XGBoost
+2026-05-16,7,Saturday,0,356,XGBoost
+2026-05-17,7,Sunday,0,238,XGBoost
+2026-05-18,7,Monday,1,5491,XGBoost
+2026-05-19,7,Tuesday,0,5704,XGBoost
+2026-05-20,7,Wednesday,0,5653,XGBoost
+2026-05-21,7,Thursday,0,5750,XGBoost
+2026-05-22,7,Friday,0,5593,XGBoost
+2026-05-23,7,Saturday,0,938,XGBoost
+2026-05-24,7,Sunday,0,254,XGBoost
+2026-05-25,7,Monday,0,6534,XGBoost
+2026-05-26,7,Tuesday,0,6134,XGBoost
+2026-05-27,7,Wednesday,0,6423,XGBoost
+2026-05-28,7,Thursday,0,5927,XGBoost
+2026-05-29,7,Friday,0,5383,XGBoost
+2026-05-30,7,Saturday,0,800,XGBoost
+2026-04-05,8,Sunday,0,318,XGBoost
+2026-04-06,8,Monday,0,7802,XGBoost
+2026-04-07,8,Tuesday,0,8227,XGBoost
+2026-04-08,8,Wednesday,0,7145,XGBoost
+2026-04-09,8,Thursday,0,6741,XGBoost
+2026-04-10,8,Friday,0,6559,XGBoost
+2026-04-11,8,Saturday,0,494,XGBoost
+2026-04-12,8,Sunday,0,308,XGBoost
+2026-04-13,8,Monday,0,7654,XGBoost
+2026-04-14,8,Tuesday,0,8266,XGBoost
+2026-04-15,8,Wednesday,0,7355,XGBoost
+2026-04-16,8,Thursday,0,6645,XGBoost
+2026-04-17,8,Friday,0,6134,XGBoost
+2026-04-18,8,Saturday,0,511,XGBoost
+2026-04-19,8,Sunday,0,312,XGBoost
+2026-04-20,8,Monday,0,7794,XGBoost
+2026-04-21,8,Tuesday,0,8211,XGBoost
+2026-04-22,8,Wednesday,0,7593,XGBoost
+2026-04-23,8,Thursday,0,7041,XGBoost
+2026-04-24,8,Friday,0,6502,XGBoost
+2026-04-25,8,Saturday,0,605,XGBoost
+2026-04-26,8,Sunday,0,351,XGBoost
+2026-04-27,8,Monday,0,7717,XGBoost
+2026-04-28,8,Tuesday,0,8251,XGBoost
+2026-04-29,8,Wednesday,0,7467,XGBoost
+2026-04-30,8,Thursday,0,7011,XGBoost
+2026-05-01,8,Friday,0,6773,XGBoost
+2026-05-02,8,Saturday,0,796,XGBoost
+2026-05-03,8,Sunday,0,344,XGBoost
+2026-05-04,8,Monday,0,7619,XGBoost
+2026-05-05,8,Tuesday,0,7941,XGBoost
+2026-05-06,8,Wednesday,0,7433,XGBoost
+2026-05-07,8,Thursday,0,6886,XGBoost
+2026-05-08,8,Friday,0,6389,XGBoost
+2026-05-09,8,Saturday,0,763,XGBoost
+2026-05-10,8,Sunday,0,367,XGBoost
+2026-05-11,8,Monday,0,7688,XGBoost
+2026-05-12,8,Tuesday,0,8009,XGBoost
+2026-05-13,8,Wednesday,0,7523,XGBoost
+2026-05-14,8,Thursday,0,7091,XGBoost
+2026-05-15,8,Friday,0,6703,XGBoost
+2026-05-16,8,Saturday,0,921,XGBoost
+2026-05-17,8,Sunday,0,363,XGBoost
+2026-05-18,8,Monday,1,7673,XGBoost
+2026-05-19,8,Tuesday,0,7701,XGBoost
+2026-05-20,8,Wednesday,0,7791,XGBoost
+2026-05-21,8,Thursday,0,7559,XGBoost
+2026-05-22,8,Friday,0,7284,XGBoost
+2026-05-23,8,Saturday,0,991,XGBoost
+2026-05-24,8,Sunday,0,362,XGBoost
+2026-05-25,8,Monday,0,8147,XGBoost
+2026-05-26,8,Tuesday,0,8290,XGBoost
+2026-05-27,8,Wednesday,0,7714,XGBoost
+2026-05-28,8,Thursday,0,7292,XGBoost
+2026-05-29,8,Friday,0,6566,XGBoost
+2026-05-30,8,Saturday,0,914,XGBoost

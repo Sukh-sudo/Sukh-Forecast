@@ -1,0 +1,33 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Credentials
+.env
+*.env
+
+# Raw and processed data
+data/*.csv
+data/*.xlsx
+data/*.parquet
+
+# Saved models
+models/
+*.pkl
+*.joblib
+*.json.ubj
+
+# Generated outputs
+outputs/figures/
+outputs/*.csv
+
+# Editor and OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# PowerPoint files
+*.pptx
