@@ -21,7 +21,7 @@ models/
 *.json.ubj
 
 # Generated outputs
-outputs/figures/
+
 outputs/*.csv
 
 # Editor and OS
